@@ -14,15 +14,15 @@ public class AtoFcityname  {
         if (alphabet == 'a' || alphabet == 'A') {
             cityName = "Ahmedabad";
         } else if (alphabet == 'b' || alphabet == 'B') {
-            cityName = "Brazil";
+            cityName = "Ibiza";
         } else if (alphabet == 'c' || alphabet == 'C') {
-            cityName = "Canada";
+            cityName = "Toronto";
         } else if (alphabet == 'd' || alphabet == 'D') {
-            cityName = "Denmark";
+            cityName = "New York";
         } else if (alphabet == 'e' || alphabet == 'E') {
-            cityName = "Egypt";
+            cityName = "Rome";
         } else if (alphabet == 'f' || alphabet == 'F') {
-            cityName = "France";
+            cityName = "Northampton";
         } else {
             cityName = "Invalid entry";
         }
