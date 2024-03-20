@@ -9,10 +9,10 @@ public class AtoFcityname  {
         char alphabet = scanner.next().charAt(0);
 
         String cityName;
-
+        //updating city name
         // Check the input alphabet and print the corresponding city name
         if (alphabet == 'a' || alphabet == 'A') {
-            cityName = "Australia";
+            cityName = "Ahmedabad";
         } else if (alphabet == 'b' || alphabet == 'B') {
             cityName = "Brazil";
         } else if (alphabet == 'c' || alphabet == 'C') {
